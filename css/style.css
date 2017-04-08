@@ -8,3 +8,42 @@ html{
 	background-color: rgba(0, 255, 255, 0.6);
 	margin-bottom: 15px;
 }
+#pixele{
+	width: 400px;
+}
+#em{
+	width: 20em;
+}
+#ex{
+	width: 20ex; /* argentyński kaktus */
+}
+#rem{
+	width: 20rem;
+}
+#procenty{
+	width: 50%;
+}
+#vw{
+	width: 60vw;
+}
+#vh{
+	width: 60vh;
+}
+#vmin{
+	width: 60vmin;
+}
+#vmax{
+	width: 60vmax;
+}
+#inch{
+	width: 20cm;
+}
+#cm{
+	width: 20cm;
+}
+#mm{
+	width: 20mm;
+}
+#pt{
+	width: 20pt;
+}
